@@ -1,4 +1,3 @@
-# Childe
 斯坦福大学李菲菲教授的cs231n课程assignment1
 一、所需的下载
 首先需要的安装的软件：PyCharm和Anaconda
