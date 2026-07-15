@@ -15,4 +15,6 @@ test_set = torchvision.datasets.CIFAR10(root='./data', train=False, transform=da
 然后安装jupyter。由于作业大都是notebook文档，所以正确的jupyter安装很重要。
 然后就可以开始完成作业了。
 
+我更改了原代码的环境，并且也只上传了需要更改代码的文件
+
 由于是入门学习，所以很多都弄不懂，花了很多时间，多用AI解决问题吧。
